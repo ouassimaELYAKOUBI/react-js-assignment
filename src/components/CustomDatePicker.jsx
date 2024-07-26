@@ -26,7 +26,16 @@ const CustomDatePicker = () => {
   );
 
   const CustomCalendarContainer = ({ children }) => (
-    <div>
+    <div className="custom-calendar-container">
+      <label className="custom-date-picker-label text-[#989797] text-sm  font-medium px-4 ">
+        Date Range
+      </label>
+      <div className="custom-date-picker-dropdown text-[#313131] text-sm px-4 py-2">
+        <select >
+          <option value="option1" class>Custom</option>
+          {/* Add more options as needed */}
+        </select>
+      </div>
       <CalendarContainer className="react-datepicker">
         <div style={{ position: 'relative' }}>{children}</div>
         <div className="custom-date-picker-buttons">

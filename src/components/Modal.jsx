@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import image1 from "../assets/image1.svg";
 import image2 from "../assets/image2.svg";
+import { ClockIcon } from '@heroicons/react/24/outline';
 
 const popUpData = [
   { img: image1, date: "15/11/2022 10:34", number: "#03", text: "consectetur adipiscing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua adipiscingdo eiusmod tempor incididunt labore" },
@@ -43,6 +44,7 @@ const Modal = ({ isOpen, onClose, position }) => {
             <div className='flex justify-between items-center'>
               <h1 className='text-[#929292] text-sm'>Comment</h1>
               <div className="flex items-center gap-x-2">
+                <ClockIcon className='w-5 h-5 text-[#F88923]'/>
                 <h1 className="text-[#727272] text-xs font-medium">{item.date}</h1>
                 <h1 className="font-medium text-sm text-[#313131]">{item.number}</h1>
               </div>
