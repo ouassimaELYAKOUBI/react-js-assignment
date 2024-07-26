@@ -1,3 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* Example of custom responsive styles */
+   
+input,select:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: transparent;
+  }
+  
+select:focus {
+    outline: none;
+    box-shadow: none;
+    border-color:#D8D8D8
+  }
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Track color */
+    border-radius: 8px; /* Rounded corners */
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #BBBBBB; /* Scrollbar color */
+    border-radius: 8px; /* Rounded corners */
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #888; /* Darker color on hover */
+  }
+  ::-webkit-scrollbar {
+    width: 4px; /* Adjust width as needed */
+  }
+ 
+  ::-webkit-scrollbar-horizontal {
+    
+    height :4px/* Height of horizontal scrollbar */
+  }
+  /* Style for selected site button */
+.selected-site {
+    color: #42A4DF; /* Blue color for selected site */
+     /* Underline effect */
+  }
+  

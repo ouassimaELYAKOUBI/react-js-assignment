@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600&display=swap');
+
+.custom-date-picker {
+  background: white;
+  border: 2px solid #D8D8D8;
+  border-radius: 0.125rem;
+  font-size: 0.875rem;
+  color: #484848;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 35px; /* Match height with other elements */
+  padding: 0 16px; /* Adjust padding */
+  cursor: pointer;
+  width: 100%; /* Ensure full width */
+}
+
+.react-datepicker {
+  font-size: 1rem;
+  color: #000;
+}
+
+.react-datepicker__header {
+  background-color: #fff;
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.react-datepicker__current-month,
+.react-datepicker__day-name,
+.react-datepicker__day {
+  color: black;
+  font-weight: bold;
+}
+
+.react-datepicker__day--selected,
+.react-datepicker__day--in-range,
+.react-datepicker__day--in-selecting-range {
+  background-color: #42A4DF !important;
+  color: white !important;
+  border-radius: 50% !important;
+}
+
+.react-datepicker__day--today {
+  background-color: #fff;
+}
+
+.react-datepicker__navigation--previous,
+.react-datepicker__navigation--next {
+  top: 10px;
+  line-height: 1.7rem;
+  width: 1.7rem;
+  height: 1.7rem;
+}
+
+.react-datepicker__navigation--previous {
+  left: 10px;
+}
+
+.react-datepicker__navigation--next {
+  right: 10px;
+}
+
+.react-datepicker__close-icon::after {
+  background-color: white;
+  color: #4caf50;
+  border-radius: 50%;
+  width: 1.2rem;
+  height: 1.2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.custom-date-picker-buttons {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem;
+  padding-top: 2px;
+}
+
+.custom-date-picker-buttons button.apply {
+  background-color: #37C34D;
+  border: 2px solid #28A43C;
+  color: white;
+  padding: 0.4rem 1rem;
+  border-radius: 0.125rem;
+  cursor: pointer;
+}
+
+.custom-date-picker-buttons button.cancel {
+  background-color: #fff;
+  color: #B6B6B6;
+  padding: 0.5rem 1rem;
+}
+
+.react-datepicker__day--in-month {
+  color: black;
+  font-weight: bold;
+}
+
+.react-datepicker__day--outside-month {
+  color: #9A9A9A;
+}

@@ -1,0 +1,246 @@
+[
+    {
+      "name": "Blaise DEFLOO",
+      "image": "../../assets/photo_profile.svg",
+      "role": "Manager",
+      "site": "Site 1",
+       "img": "../../assets/img.svg",
+      "ppe_violations": {
+        "Protective_gloves": 2,
+        "Safety_glasses": "-",
+        "Ear_protection": "-",
+        "Mask_protection": 10,
+        "Knee_pads": "-",
+        "Safety_shoes": "-",
+        "Coverall": 1,
+        "Hi_Vis_jacket": "-",
+        "Safety_harness": "-",
+        "Face_shield": 3,
+        "Hard_hat": "-",
+        "Welding_helmet": "-"
+      }
+    },
+    {
+      "name": "Blaise DEFLOO",
+      "image": "path/to/photo_profile.svg",
+      "role": "Manager",
+      "site": "Site 2",
+       "img": "../../assets/img.svg",
+      "ppe_violations": {
+        "Protective_gloves": "-",
+        "Safety_glasses": 2,
+        "Ear_protection": "-",
+        "Mask_protection": "-",
+        "Knee_pads": "-",
+        "Safety_shoes": 10,
+        "Coverall": "-",
+        "Hi_Vis_jacket": 1,
+        "Safety_harness": "-",
+        "Face_shield": "-",
+        "Hard_hat": "-",
+        "Welding_helmet": 3
+      }
+    },
+    {
+      "name": "Blaise DEFLOO",
+      "image": "path/to/photo_profile.svg",
+      "role": "Manager",
+      "site": "Site 3",
+       "img": "../../assets/img.svg",
+      "ppe_violations": {
+        "Protective_gloves": "-",
+        "Safety_glasses": "-",
+        "Ear_protection": 11,
+        "Mask_protection": "-",
+        "Knee_pads": "-",
+        "Safety_shoes":"-",
+        "Coverall": "-",
+        "Hi_Vis_jacket": "-",
+        "Safety_harness": "-",
+        "Face_shield": "-",
+        "Hard_hat": "-",
+        "Welding_helmet": "-"
+      }
+    },{
+        "name": "Blaise DEFLOO",
+        "image": "path/to/photo_profile.svg",
+        "role": "Manager",
+        "site": "Site 3",
+         "img": "../../assets/img.svg",
+        "ppe_violations": {
+          "Protective_gloves": 2,
+          "Safety_glasses": "-",
+          "Ear_protection": "-",
+          "Mask_protection": 10,
+          "Knee_pads": "-",
+          "Safety_shoes":"-",
+          "Coverall": 1,
+          "Hi_Vis_jacket": "-",
+          "Safety_harness": "-",
+          "Face_shield": 3,
+          "Hard_hat": "-",
+          "Welding_helmet": "-"
+        }
+      },{
+        "name": "Blaise DEFLOO",
+        "image": "path/to/photo_profile.svg",
+        "role": "Manager",
+        "site": "Site 3",
+         "img": "../../assets/img.svg",
+        "ppe_violations": {
+          "Protective_gloves": "-",
+          "Safety_glasses": 2,
+          "Ear_protection": "-",
+          "Mask_protection": "-",
+          "Knee_pads": "-",
+          "Safety_shoes":10,
+          "Coverall": "-",
+          "Hi_Vis_jacket": 1,
+          "Safety_harness": "-",
+          "Face_shield": "-",
+          "Hard_hat": "-",
+          "Welding_helmet": 3
+        }
+      },{
+        "name": "Blaise DEFLOO",
+        "image": "path/to/photo_profile.svg",
+        "role": "Manager",
+        "site": "Site 3",
+         "img": "../../assets/img.svg",
+        "ppe_violations": {
+          "Protective_gloves": "-",
+          "Safety_glasses": "-",
+          "Ear_protection": 11,
+          "Mask_protection": "-",
+          "Knee_pads": "-",
+          "Safety_shoes":"-",
+          "Coverall": "-",
+          "Hi_Vis_jacket": "-",
+          "Safety_harness": "-",
+          "Face_shield": "-",
+          "Hard_hat": "-",
+          "Welding_helmet": "-"
+        }
+      },{
+        "name": "Blaise DEFLOO",
+        "image": "../../assets/photo_profile.svg",
+        "role": "Manager",
+        "site": "Site 1",
+         "img": "../../assets/img.svg",
+        "ppe_violations": {
+          "Protective_gloves": 2,
+          "Safety_glasses": "-",
+          "Ear_protection": "-",
+          "Mask_protection": 10,
+          "Knee_pads": "-",
+          "Safety_shoes": "-",
+          "Coverall": 1,
+          "Hi_Vis_jacket": "-",
+          "Safety_harness": "-",
+          "Face_shield": 3,
+          "Hard_hat": "-",
+          "Welding_helmet": "-"
+        }
+      },{
+        "name": "Blaise DEFLOO",
+        "image": "path/to/photo_profile.svg",
+        "role": "Manager",
+        "site": "Site 2",
+         "img": "../../assets/img.svg",
+        "ppe_violations": {
+          "Protective_gloves": "-",
+          "Safety_glasses": 2,
+          "Ear_protection": "-",
+          "Mask_protection": "-",
+          "Knee_pads": "-",
+          "Safety_shoes": 10,
+          "Coverall": "-",
+          "Hi_Vis_jacket": 1,
+          "Safety_harness": "-",
+          "Face_shield": "-",
+          "Hard_hat": "-",
+          "Welding_helmet": 3
+        }
+      },{
+        "name": "Blaise DEFLOO",
+        "image": "../../assets/photo_profile.svg",
+        "role": "Manager",
+        "site": "Site 1",
+         "img": "../../assets/img.svg",
+        "ppe_violations": {
+          "Protective_gloves": 2,
+          "Safety_glasses": "-",
+          "Ear_protection": "-",
+          "Mask_protection": 10,
+          "Knee_pads": "-",
+          "Safety_shoes": "-",
+          "Coverall": 1,
+          "Hi_Vis_jacket": "-",
+          "Safety_harness": "-",
+          "Face_shield": 3,
+          "Hard_hat": "-",
+          "Welding_helmet": "-"
+        }
+      },{
+        "name": "Blaise DEFLOO",
+        "image": "path/to/photo_profile.svg",
+        "role": "Manager",
+        "site": "Site 3",
+         "img": "../../assets/img.svg",
+        "ppe_violations": {
+          "Protective_gloves": "-",
+          "Safety_glasses": "-",
+          "Ear_protection": 11,
+          "Mask_protection": "-",
+          "Knee_pads": "-",
+          "Safety_shoes":"-",
+          "Coverall": "-",
+          "Hi_Vis_jacket": "-",
+          "Safety_harness": "-",
+          "Face_shield": "-",
+          "Hard_hat": "-",
+          "Welding_helmet": "-"
+        }
+      },{
+        "name": "Blaise DEFLOO",
+        "image": "path/to/photo_profile.svg",
+        "role": "Manager",
+        "site": "Site 3",
+         "img": "../../assets/img.svg",
+        "ppe_violations": {
+          "Protective_gloves": "-",
+          "Safety_glasses": "-",
+          "Ear_protection": 11,
+          "Mask_protection": "-",
+          "Knee_pads": "-",
+          "Safety_shoes":"-",
+          "Coverall": "-",
+          "Hi_Vis_jacket": "-",
+          "Safety_harness": "-",
+          "Face_shield": "-",
+          "Hard_hat": "-",
+          "Welding_helmet": "-"
+        }
+      },{
+        "name": "Blaise DEFLOO",
+        "image": "../../assets/photo_profile.svg",
+        "role": "Manager",
+        "site": "Site 1",
+        "img": "../../assets/img.svg",
+        "ppe_violations": {
+          "Protective_gloves": 2,
+          "Safety_glasses": "-",
+          "Ear_protection": "-",
+          "Mask_protection": 10,
+          "Knee_pads": "-",
+          "Safety_shoes": "-",
+          "Coverall": 1,
+          "Hi_Vis_jacket": "-",
+          "Safety_harness": "-",
+          "Face_shield": 3,
+          "Hard_hat": "-",
+          "Welding_helmet": "-"
+        }
+      }
+  ]
+  
